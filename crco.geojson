@@ -1,0 +1,661 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Ireland",
+        "airspaceID": "EI",
+        "rate": "29.37"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.633333,
+          52.533333
+        ],
+        "type": "Point"
+      },
+      "id": "0500b4b3a54889618cd2ffbf9c1292ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Malta",
+        "airspaceID": "LM",
+        "rate": "33.14"
+      },
+      "geometry": {
+        "coordinates": [
+          16.766666,
+          35.3
+        ],
+        "type": "Point"
+      },
+      "id": "09fb234ae7e9b2466956a0e3b31d6bee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Spain Continent.",
+        "airspaceID": "LE",
+        "rate": "49.43"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.1,
+          39.9
+        ],
+        "type": "Point"
+      },
+      "id": "0c697b574887ddce3d4c60fc19d009e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Ukraine South",
+        "airspaceID": "U1",
+        "rate": "22.96"
+      },
+      "geometry": {
+        "coordinates": [
+          31.633333,
+          43.85
+        ],
+        "type": "Point"
+      },
+      "id": "1919ca9f79f75b2103b0e68091b89aac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Spain Canaries",
+        "airspaceID": "GC",
+        "rate": "20"
+      },
+      "geometry": {
+        "coordinates": [
+          -20,
+          25
+        ],
+        "type": "Point"
+      },
+      "id": "1d203983c361d3cfcd8a690d5f9956b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Belgium and Luxembourg",
+        "airspaceID": "EB",
+        "rate": "120.52"
+      },
+      "geometry": {
+        "coordinates": [
+          4.066666,
+          50.566666
+        ],
+        "type": "Point"
+      },
+      "id": "20544b51df74a1307bdaa61ecfd16851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Denmark",
+        "airspaceID": "EK",
+        "rate": "63.91"
+      },
+      "geometry": {
+        "coordinates": [
+          8.916666,
+          56.466666
+        ],
+        "type": "Point"
+      },
+      "id": "20c607635f7e1c1d92c885d03ccc38bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Netherlands",
+        "airspaceID": "EH",
+        "rate": "82.34"
+      },
+      "geometry": {
+        "coordinates": [
+          3.65,
+          53
+        ],
+        "type": "Point"
+      },
+      "id": "275dcd4c8cf23809834c58e51f79ae1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Ukraine",
+        "airspaceID": "UK",
+        "rate": "58.23"
+      },
+      "geometry": {
+        "coordinates": [
+          32.383333,
+          47.55
+        ],
+        "type": "Point"
+      },
+      "id": "295c4371ae4d67206195bf08193cfc90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Bosnia and Herzegovina",
+        "airspaceID": "LQ",
+        "rate": "40.20"
+      },
+      "geometry": {
+        "coordinates": [
+          17.116666,
+          43.983333
+        ],
+        "type": "Point"
+      },
+      "id": "2ef26dc9027dfbc87be97b16d1318a0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Georgia",
+        "airspaceID": "UG",
+        "rate": "59.04"
+      },
+      "geometry": {
+        "coordinates": [
+          41.866666,
+          42.583333
+        ],
+        "type": "Point"
+      },
+      "id": "30961396bd89d5bbc3f38000a5228b08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Croatia",
+        "airspaceID": "LD",
+        "rate": "50.62"
+      },
+      "geometry": {
+        "coordinates": [
+          13.666666,
+          44.483333
+        ],
+        "type": "Point"
+      },
+      "id": "3fdc40cd04a25cb0ea9f73b5f79936f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Hungary",
+        "airspaceID": "LH",
+        "rate": "39.78"
+      },
+      "geometry": {
+        "coordinates": [
+          19.633333,
+          47.183333
+        ],
+        "type": "Point"
+      },
+      "id": "4de6e1e0797762e8d1cdbabb61f1cefd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Sweden",
+        "airspaceID": "ES",
+        "rate": "66.61"
+      },
+      "geometry": {
+        "coordinates": [
+          13.433333,
+          58.966666
+        ],
+        "type": "Point"
+      },
+      "id": "53033e0d795334c42869b91db269b97f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Switzerland",
+        "airspaceID": "LS",
+        "rate": "95.86"
+      },
+      "geometry": {
+        "coordinates": [
+          7.283333,
+          46.65
+        ],
+        "type": "Point"
+      },
+      "id": "5a3371dd26cb2496c1f722c14f24d080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "North Macedonia",
+        "airspaceID": "LW",
+        "rate": "53.87"
+      },
+      "geometry": {
+        "coordinates": [
+          21.7,
+          41.65
+        ],
+        "type": "Point"
+      },
+      "id": "5b5e9b97e71f3eab4e5770309a7d5516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Türkiye",
+        "airspaceID": "LT",
+        "rate": "17.53"
+      },
+      "geometry": {
+        "coordinates": [
+          34.366666,
+          39.216666
+        ],
+        "type": "Point"
+      },
+      "id": "5c188151e6367115505eaa7fc1686bd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Poland",
+        "airspaceID": "EP",
+        "rate": "45.11"
+      },
+      "geometry": {
+        "coordinates": [
+          19.466666,
+          51.033333
+        ],
+        "type": "Point"
+      },
+      "id": "5d98dc139657eb5e0cc5e87265981b00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Santa Maria",
+        "airspaceID": "AZ",
+        "rate": "10"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.5,
+          35.533333
+        ],
+        "type": "Point"
+      },
+      "id": "64fb96e1a8a486e5c525a5cf552af388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "France",
+        "airspaceID": "LF",
+        "rate": "73.24"
+      },
+      "geometry": {
+        "coordinates": [
+          0.4,
+          46.5
+        ],
+        "type": "Point"
+      },
+      "id": "821a318018a6cb6a77db66ea1a0e012e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Albania",
+        "airspaceID": "LA",
+        "rate": "58.07"
+      },
+      "geometry": {
+        "coordinates": [
+          19.266666,
+          40.7
+        ],
+        "type": "Point"
+      },
+      "id": "827729fa7898b0b5ca173026afc722c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Italy",
+        "airspaceID": "LI",
+        "rate": "75.64"
+      },
+      "geometry": {
+        "coordinates": [
+          11.633333,
+          39.7
+        ],
+        "type": "Point"
+      },
+      "id": "945cd9b0dcd0ff0ad00e5644ed4492f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Serbia and Montenegro",
+        "airspaceID": "LY",
+        "rate": "42.49"
+      },
+      "geometry": {
+        "coordinates": [
+          20.533333,
+          43.533333
+        ],
+        "type": "Point"
+      },
+      "id": "94f895b08492f5e2d4b0163caefe6373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Romania",
+        "airspaceID": "LR",
+        "rate": "48.58"
+      },
+      "geometry": {
+        "coordinates": [
+          24.6,
+          45.933333
+        ],
+        "type": "Point"
+      },
+      "id": "a5629313832c6aeb1247ddd41e25adec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Austria",
+        "airspaceID": "LO",
+        "rate": "67.55"
+      },
+      "geometry": {
+        "coordinates": [
+          13.633333,
+          47.45
+        ],
+        "type": "Point"
+      },
+      "id": "b0e0c0e5cdcc039d07a4583e97867c88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Moldova",
+        "airspaceID": "LU",
+        "rate": "78.50"
+      },
+      "geometry": {
+        "coordinates": [
+          28.933333,
+          46.933333
+        ],
+        "type": "Point"
+      },
+      "id": "b370dee63f38e897dca1aa0e5e64b821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Estonia",
+        "airspaceID": "EE",
+        "rate": "32.99"
+      },
+      "geometry": {
+        "coordinates": [
+          24.333333,
+          58.883333
+        ],
+        "type": "Point"
+      },
+      "id": "bcde4372b35b058ffd083f87c69c8117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Slovenia",
+        "airspaceID": "LJ",
+        "rate": "61.33"
+      },
+      "geometry": {
+        "coordinates": [
+          14.85,
+          46.233333
+        ],
+        "type": "Point"
+      },
+      "id": "c2d54816ce4753de32b3af88336dccf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Slovakia",
+        "airspaceID": "LZ",
+        "rate": "68.75"
+      },
+      "geometry": {
+        "coordinates": [
+          18.15,
+          48.866666
+        ],
+        "type": "Point"
+      },
+      "id": "c4469b3c3ccac7367b5bb004ed6ea708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "United Kingdom",
+        "airspaceID": "EG",
+        "rate": "68.94"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.3,
+          54.316666
+        ],
+        "type": "Point"
+      },
+      "id": "ce5b9cf102a4155a314f0f39f4efb6fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Greece",
+        "airspaceID": "LG",
+        "rate": "28.95"
+      },
+      "geometry": {
+        "coordinates": [
+          21.8,
+          37.8
+        ],
+        "type": "Point"
+      },
+      "id": "d301d90bb29e7826efebbc10477be3e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Czech Republic",
+        "airspaceID": "LK",
+        "rate": "64.05"
+      },
+      "geometry": {
+        "coordinates": [
+          13.7,
+          49.583333
+        ],
+        "type": "Point"
+      },
+      "id": "d50e6f92736c4b0ced047e1331081239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Finland",
+        "airspaceID": "EF",
+        "rate": "44.15"
+      },
+      "geometry": {
+        "coordinates": [
+          24.833333,
+          63
+        ],
+        "type": "Point"
+      },
+      "id": "db13e116e556f3ecf5a38a3a00e7086a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Latvia",
+        "airspaceID": "EV",
+        "rate": "31.92"
+      },
+      "geometry": {
+        "coordinates": [
+          25.5,
+          57
+        ],
+        "type": "Point"
+      },
+      "id": "e01204aba6bf301ab80add739e32353f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Armenia",
+        "airspaceID": "UD",
+        "rate": "65.20"
+      },
+      "geometry": {
+        "coordinates": [
+          44.583333,
+          40.6
+        ],
+        "type": "Point"
+      },
+      "id": "e19f3ecac43e0fbe14441353dcf548c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Portugal",
+        "airspaceID": "LP",
+        "rate": "42.54"
+      },
+      "geometry": {
+        "coordinates": [
+          -11.25,
+          39.116666
+        ],
+        "type": "Point"
+      },
+      "id": "e60a4f25ac13940d378f954ea3971c17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Cyprus",
+        "airspaceID": "LC",
+        "rate": "28.94"
+      },
+      "geometry": {
+        "coordinates": [
+          32.283333,
+          33.733333
+        ],
+        "type": "Point"
+      },
+      "id": "e7b1ca2736037c3473a025b6eed87b46"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Norway",
+        "airspaceID": "EN",
+        "rate": "53.95"
+      },
+      "geometry": {
+        "coordinates": [
+          6.066666,
+          61.566666
+        ],
+        "type": "Point"
+      },
+      "id": "f0367be859116e53a3df085cc05f1c32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Lithuania",
+        "airspaceID": "EY",
+        "rate": "44.18"
+      },
+      "geometry": {
+        "coordinates": [
+          22.916666,
+          55.283333
+        ],
+        "type": "Point"
+      },
+      "id": "f7b14a8c93ea3b995d21221702783d03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Bulgaria",
+        "airspaceID": "LB",
+        "rate": "35.87"
+      },
+      "geometry": {
+        "coordinates": [
+          25.8,
+          42.766666
+        ],
+        "type": "Point"
+      },
+      "id": "fd955d68245d74dcc584556ffb9d6523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "crco_name": "Germany",
+        "airspaceID": "ED",
+        "rate": "62.57"
+      },
+      "geometry": {
+        "coordinates": [
+          10.183333,
+          50.866666
+        ],
+        "type": "Point"
+      },
+      "id": "fe636a3903b59a973291d185d9a82632"
+    }
+  ],
+  "type": "FeatureCollection"
+}
